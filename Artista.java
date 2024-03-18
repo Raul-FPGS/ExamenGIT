@@ -17,6 +17,7 @@ public class Artista {
 
     public String getNombreArtista() {
         return nombreArtista;
+	// Este comentario es para el segundo commit
 	//Esto es un comentario
     }
 
